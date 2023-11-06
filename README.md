@@ -32,5 +32,5 @@ Cross-Sell: Esta seção pode destacar oportunidades de venda cruzada, ou seja, 
 
 Detalhes de Vendas: Aqui, você pode disponibilizar informações mais detalhadas sobre transações individuais, como datas, valores, produtos comprados e clientes. Isso é útil para uma análise mais profunda do desempenho de vendas.
 
-![Logo da Minha Aplicação](Detalhes_de_vendas.jpeg)
+![Logo da Minha Aplicação](Detalhes_Vendas.jpeg)
 
