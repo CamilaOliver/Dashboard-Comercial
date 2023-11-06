@@ -4,7 +4,7 @@ Aprendizado do Curso Power BI Experience ministrado pelo Leonardo Karpinsk
 
 Faturamento: Essa seção provavelmente exibe os números totais de faturamento da sua empresa em um período específico. É uma métrica-chave para avaliar a saúde financeira da sua organização.
 
-![Logo da Minha Aplicação](faturamento.jpeg)
+![Logo da Minha Aplicação](Faturamento.jpeg)
 
 Faturamento Decomposto: Aqui, você provavelmente quebra o faturamento total em diferentes categorias ou segmentos, permitindo uma análise mais granular das fontes de receita e identificando áreas de destaque ou preocupação.
 
